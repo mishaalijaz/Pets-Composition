@@ -1,7 +1,5 @@
 # Pets-Composition
 
-Playing with basic Objected Oriented programming (OOP) concepts as a starter lab for Advanced Object-Oriented Design course for Masters level.
-
 **Pet.java** -- An abstract class to represent the concept of a pet. A pet should have a name, a gender and a sound
 (choose appropriate data-types for these).
 
